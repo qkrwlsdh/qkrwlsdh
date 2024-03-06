@@ -1,5 +1,5 @@
 <h1 align="left">반갑습니다 👋</h1>
-<h3 align="left">2021년 김해에서 서울로 상경한, 웹개발 2년차 박진오 입니다</h3>
+<h3 align="left">웹개발 2년차 박진오 입니다</h3>
 
 - 🌱 I’m currently learning **react, typescript, node.js**
 
