@@ -1,9 +1,7 @@
-<h1 align="left">반갑습니다 👋</h1>
-<h3 align="left">웹개발 2년차 박진오 입니다</h3>
+<h1 align="left">👋</h1>
+<h3 align="left">웹개발 3년차 박진오 입니다</h3>
 
-- 🌱 I’m currently learning **react, typescript, node.js**
-
-- 📫 How to reach me **jjgod4742@naver.com**
+- 📫 How to reach me **jjgod9153@daum.net**
 
 - 📄 Know about my experiences [https://www.notion.so/c6d11319602c41298a930a6e9cff4f9f?pvs=4](https://www.notion.so/c6d11319602c41298a930a6e9cff4f9f?pvs=4)
 
